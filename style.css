@@ -1,0 +1,131 @@
+  body{
+	background:#333333;
+}
+
+.container{
+	
+	width:1208px;
+	height:923px;
+	background:#E9CBA7;
+	margin:auto;
+}
+
+.header{
+	width:1208px;
+	height:123px;
+	background:red;
+	float:left
+}
+.logo{
+	width:300px;
+	height:130px;
+	background:red;
+	float:left	
+}
+.banners{
+	width:908px;
+	height:130px;
+	background:green;
+	float:left;	
+}
+.menu{
+	width:1208px;
+	height:50px;
+	background:#652A0E;
+	float:left;
+	border-bottom:5px solid #80471C;
+	text-align:center;
+	
+}
+.menu li{
+	display:inline;
+	}
+
+
+.menu a{
+padding:15px;
+font-size:20px;
+color:#EEDC82;
+text-decoration:none;
+}
+
+
+
+ .body_content{
+	width:1208px;
+	height:650px;
+	background-image:url("cbg1.jpg");
+	float:left
+}
+
+.box{
+    width:350px;
+	height:600px;
+	background:#9A7B4F;
+	float:left;
+	margin-left:40px;
+	margin-top:18px;
+	
+}
+.box_header{
+    width:350px;
+	height:50px;
+	background:#652A0E;
+	float:left;		
+	
+}
+.box_header h1{
+	margin:0px;
+	text-align:center;
+	color:#EEDC82;
+	padding-top:5px;
+}
+.box_body{
+    width:340px;
+	height:540px;
+	float:left;	
+    padding:5px;
+}
+
+.box_body P{
+color:#352315;
+text-align:justify;
+font-size:20px;
+
+}
+
+
+.box_body1{
+    width:170px; 
+	float:left;	
+
+}
+.box_body1 p{
+margin:0px;
+ 
+}
+.box_body1 h4{
+margin:0px;
+
+}
+
+
+.footer{
+	width:1208px;
+	height:85px;
+	background-image:url("cbg1.jpg");
+	float:left ;
+	text-align:center;
+
+}
+.footer li{
+	display:inline;
+}
+
+
+.footer a{
+padding:20px;
+font-size:20px;
+color:#652A0E;
+text-decoration:none;
+}
